@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/89fe7ce0-b7e3-4158-b9da-8efae1772f6e)<h1>Corporate-Financial-Evaluation---Power-BI</h1>  
+<h1>Corporate-Financial-Evaluation---Power-BI</h1>  
 
 <div>
 <h2>Background</h2>
@@ -41,5 +41,7 @@ To carry out this project, a combination of data analysis and visualization tool
 
 <div>
 <h2>DashBoard</h2>
-![image](https://github.com/user-attachments/assets/317fa1f8-f5bb-4774-97f1-ed46a31c347c) 
+![image](https://github.com/user-attachments/assets/fd37e095-6750-4c93-86c4-d2ab12fccc66)
+
+
 </div>
