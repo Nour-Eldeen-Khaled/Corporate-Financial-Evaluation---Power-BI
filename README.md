@@ -41,6 +41,5 @@ To carry out this project, a combination of data analysis and visualization tool
 
 <div>
 <h2>DashBoard</h2>
-![Image_Alt](https://github.com/Nour-Eldeen-Khaled/Corporate-Financial-Evaluation---Power-BI/blob/79d82c5469a252255d475f582b99198848148323/1%20dashbaord.png)
-
+![Image](https://github.com/user-attachments/assets/a9ac0981-d089-4c74-9796-82813acc0ac4)
 </div>
