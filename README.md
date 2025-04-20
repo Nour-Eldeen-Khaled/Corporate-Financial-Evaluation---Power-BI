@@ -41,7 +41,6 @@ To carry out this project, a combination of data analysis and visualization tool
 
 <div>
 <h2>DashBoard</h2>
-![1 dashbaord](https://github.com/user-attachments/assets/db33fa72-75fa-415e-a0bf-8e32c636c162)
 
 
 </div>
