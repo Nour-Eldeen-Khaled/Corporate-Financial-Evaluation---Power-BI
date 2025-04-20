@@ -37,4 +37,9 @@ To carry out this project, a combination of data analysis and visualization tool
 </div>
 
 ![Image](https://github.com/user-attachments/assets/a9ac0981-d089-4c74-9796-82813acc0ac4)
-
+![Image](https://github.com/user-attachments/assets/4b84dfe3-1b43-49a6-acf4-8ac28be7aa3d)
+![Image](https://github.com/user-attachments/assets/d63ae5ed-90a2-4995-aa82-f4e61bf3dbdc)
+![Image](https://github.com/user-attachments/assets/db68967b-12f7-4631-8ac3-f0fde5b1fa62)
+![Image](https://github.com/user-attachments/assets/b4e3abfb-1461-45ba-bb19-06fc6a4f3bc9)
+![Image](https://github.com/user-attachments/assets/c6895d67-8119-47a8-971f-f9eeaae03b5e)
+![Image](https://github.com/user-attachments/assets/8c0eddec-7457-4a43-8686-4b2b5ae4a356)
